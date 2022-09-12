@@ -6,13 +6,15 @@
 
 - Member of LIGO Scientific Collaboration
 
-- Research Interests: Gravitational-wave physics, black-hole physics, and astroparticle physics
-
 - Part-time FinTech Student at the School of Professional and Continuing Education, HKU
 
 - Fresh graduate of CUHK Physics
 
-## Programming/Shell Languages
+- Passionate to AI technology, astrophysics, and cosmology
+
+- Research Interests: Gravitational-wave physics, black-hole physics, and astroparticle physics
+
+## Programming Languages / Shell
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
