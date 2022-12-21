@@ -2,20 +2,21 @@
 
 - Software Enginner at Sebit Company Limited
 
-- Part-time Research Assistant working on computational astrophysical projects
+- Part-time Research Assistant working on computational astrophysics
 
-- Member of LIGO Scientific Collaboration
+- Undergraduate Member of LIGO Scientific Collaboration
 
-- Part-time FinTech Student at the School of Professional and Continuing Education, HKU
+- Part-time FinTech Student at HKU School of Professional and Continuing Education
 
 - Fresh graduate of CUHK Physics
 
-- Passionate to AI technology, astrophysics, and cosmology
+- Passionate to applied deep/machine learning, astrophysics, and cosmology
 
-- Research Interests: Gravitational-wave physics, black-hole physics, and astroparticle physics
+- Research Interests: Gravitational-wave physics, black-hole physics, multi-messenger astronomy and astroparticle physics
 
 ## Programming Languages / Shell
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -41,6 +42,8 @@
 ## Database
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
+## Testing
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
 
 ## Software
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
