@@ -12,7 +12,10 @@
 
 <br />
 
-<h1 align="center">
-  <a href=https://wyhwong.github.io/portfolio/> &rarr; Personal Website &larr;</a> $~~~~~~~~~~~$
-  <a href="https://linkedin.com/in/wyhwong" target="blank"><img align="upper" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyhwong" height="30" width="30" /></a>
-</h1>
+<div align="center">
+  <table >
+    <tr>
+      <td><b> <a href=https://wyhwong.github.io/portfolio/> &rarr; Personal Website &larr;</a>
+      <td><b> <a href="https://linkedin.com/in/wyhwong" target="blank"><img align="upper" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyhwong" height="30" width="30" /></a>
+  </table>
+</div>
