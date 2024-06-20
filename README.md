@@ -10,14 +10,14 @@
 
 ## Hi, I am Henry 👋
 
-  - Assistant R&D Engineer [@ATAL](https://www.atal.com/)
+  - Associate Data Scientist [@OOCL]([https://www.atal.com/](https://www.oocl.com/))
   
-  - Part-time Research Assistant [@LIGO Scientific Collaboration](https://www.ligo.org/)
+  - Undergraduate Member [@LIGO Scientific Collaboration](https://www.ligo.org/)
 
   - Student of Master of Science in Data Science [@UT Austin](https://www.utexas.edu/)
 
   - Associate Financial Technologist [@IFTA](https://cftasia.org/)
   
-  - Fresh Graduate of CUHK Physics and HKUSPACE FinTech
+  - Graduate of CUHK Physics and HKUSPACE FinTech
   
   - Passionate about applied deep/machine learning, Bayesian statistics, and astrophysics
