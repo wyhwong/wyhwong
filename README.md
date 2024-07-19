@@ -1,44 +1,23 @@
-# vCard - Personal portfolio
+<div align="center">
+  <table >
+    <tr>
+      <td><b> <a href=https://wyhwong.github.io/wyhwong> &rarr; Personal Website &larr;</a>
+      <td><b> <a href="https://linkedin.com/in/wyhwong" target="blank"><img align="upper" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wyhwong" height="30" width="30" /></a>
+  </table>
+</div>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+<br />
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Hi, I am Henry 👋
 
-## Demo
+  - Associate Data Scientist [@OOCL](https://www.oocl.com/)
+  
+  - Undergraduate Member [@LIGO Scientific Collaboration](https://www.ligo.org/)
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+  - Student of Master of Science in Data Science [@UT Austin](https://www.utexas.edu/)
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+  - Associate Financial Technologist [@IFTA](https://cftasia.org/)
+  
+  - Graduate of CUHK Physics and HKUSPACE FinTech
+  
+  - Passionate about applied deep/machine learning, Bayesian statistics, and astrophysics
