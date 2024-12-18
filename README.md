@@ -10,7 +10,7 @@
 
 ## Hi, I am Henry 👋
 
-  - Associate Data Scientist [@OOCL](https://www.oocl.com/)
+  - Data Scientist II [@OOCL](https://www.oocl.com/)
   
   - Undergraduate Member [@LIGO Scientific Collaboration](https://www.ligo.org/)
 
