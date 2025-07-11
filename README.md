@@ -10,9 +10,9 @@
 
 ## Hi, I am Henry 👋
 
-  - Data Scientist II [@OOCL](https://www.oocl.com/)
+  - Associate Data Scientist (non-trainee) [@OOCL](https://www.oocl.com/)
   
-  - Undergraduate Member [@LIGO Scientific Collaboration](https://www.ligo.org/)
+  - Member [@LIGO Scientific Collaboration](https://www.ligo.org/)
 
   - Student of Master of Science in Data Science [@UT Austin](https://www.utexas.edu/)
 
