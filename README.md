@@ -10,14 +10,12 @@
 
 ## Hi, I am Henry 👋
 
-  - Associate Data Scientist (non-trainee) [@OOCL](https://www.oocl.com/)
+  - Data Scientist [@IBM](https://www.ibm.com/)
   
   - Member [@LIGO Scientific Collaboration](https://www.ligo.org/)
 
   - Student of Master of Science in Data Science [@UT Austin](https://www.utexas.edu/)
 
-  - Associate Financial Technologist [@IFTA](https://cftasia.org/)
-  
   - Graduate of CUHK Physics and HKUSPACE FinTech
   
   - Passionate about applied deep/machine learning, Bayesian statistics, and astrophysics
