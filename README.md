@@ -14,8 +14,10 @@
   
   - Member [@LIGO Scientific Collaboration](https://www.ligo.org/)
 
-  - Student of Master of Science in Data Science [@UT Austin](https://www.utexas.edu/)
+  - Student of Master of Science in Computer Science [@Georgia Institute of Technology](https://www.gatech.edu/)
 
-  - Graduate of Physics [@CUHK](https://www.cuhk.edu.hk/) and FinTech [@HKUSPACE](https://hkuspace.hku.hk/)
+  - Graduete of Master of Science in Data Science [@The University of Texas at Austin](https://www.utexas.edu/)
+
+  - Graduate of Physics [@The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) and FinTech [@HKUSPACE](https://hkuspace.hku.hk/)
   
   - Passionate about applied deep/machine learning, Bayesian statistics, and astrophysics
